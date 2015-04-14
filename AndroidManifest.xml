@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="8"
+    android:versionName="R6 ☠"
+    package="com.mct.special.project"
+    platformBuildVersionCode="21"
+    platformBuildVersionName="APKTOOL">
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="21"/>
+    <uses-feature
+        android:name="org.cyanogenmod.theme"
+        android:required="true"/>
+    <meta-data
+        android:name="org.cyanogenmod.theme.name"
+        android:value="@7F040001"/>
+    <meta-data
+        android:name="org.cyanogenmod.theme.author"
+        android:value="@7F040000"/>
+    <application
+        android:label="@7F040001"
+        android:icon="@7F020000"
+        android:hasCode="false"/>
+</manifest>
