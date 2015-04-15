@@ -35,8 +35,8 @@
     <color name="menu_text_color">@color/white</color>
     <color name="smart_playlist_item_background">#ff000000</color>
     <color name="list_item_background">#ff000000</color>
-    <color name="list_item_header_text_color">#ffffffff</color>
-    <color name="list_item_search_footer_text_color">#ffffffff</color>
+    <color name="list_item_header_text_color">@*common:color/white</color>
+    <color name="list_item_search_footer_text_color">@*common:color/white</color>
     <color name="list_item_text_color">@color/default_text_color</color>
     <color name="list_item_text_color_light">@color/default_text_color_light</color>
     <color name="list_item_divider_color">#00000000</color>
@@ -53,9 +53,9 @@
     <color name="no_results_light">@color/no_results</color>
     <color name="now_playing_divider">#00000000</color>
     <color name="widget_divider">#ccffffff</color>
-    <color name="widget_text">#ffffffff</color>
+    <color name="widget_text">@*common:color/white</color>
     <color name="lyrics_background_color">#ff000000</color>
     <color name="letter_tile_default_color">#cc000000</color>
-    <color name="letter_tile_font_color">#ffffffff</color>
+    <color name="letter_tile_font_color">@*common:color/white</color>
     <color name="equalizer_fill_color">#32ffffff</color>
 </resources>
